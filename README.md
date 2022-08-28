@@ -2,6 +2,8 @@
 
 <h3> 👨‍💼 &nbsp;Sobre o repositório </h3>
 
+
+
 - HTML
 - CSS
 - Javascript
@@ -19,23 +21,25 @@
 
 <h3> :rocket: &nbsp;Tecnologias utilizadas </h3>
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Html](https://img.shields.io/badge/-html-333333?style=flat&logo=html)
-  ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-
-
-
+<div style="display: inline_block"><br>
+ 
+  <img align="center" alt="isaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
+  <img align="center" alt="isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="isaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="isaac-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="isaac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+</div>
+  
+<div style=" margin: 20px;">  
+  <a href = "mailto:isaac.brigido@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isaac-br%C3%ADgido-rodrigues-dos-santos-6244312a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 
 <br/>
-
-<h3> :earth_americas: &nbsp;Onde nos encontrar: </h3> 
-
-
-[![Linkedin: Isaac Brigido](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-br%C3%ADgido-rodrigues-dos-santos-6244312a/)](https://www.linkedin.com/in/isaac-br%C3%ADgido-rodrigues-dos-santos-6244312a/)
-
-
 
