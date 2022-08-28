@@ -31,9 +31,8 @@
   
 </div>
 
-**Contato**  
-
 <div style=" margin: 20px;">  
+ <h3> Contato </h3>
   <a href = "mailto:isaac.brigido@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isaac-br%C3%ADgido-rodrigues-dos-santos-6244312a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
